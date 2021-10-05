@@ -21,3 +21,5 @@ Es un lugar en memoria (una especie de caja) en el que podemos guardar objetos (
 + Número de punto flotante **float** (decimal)
 + Texto -  **Strings** (cadena de caracteres)
 + Booleanos **boolean** (Verdadero o falso)
+
+## Crear una cadena de caracteres de varias lineas
