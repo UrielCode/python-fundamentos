@@ -23,3 +23,13 @@ Es un lugar en memoria (una especie de caja) en el que podemos guardar objetos (
 + Booleanos **boolean** (Verdadero o falso)
 
 ## Crear una cadena de caracteres de varias lineas
+
+```
+menu = input("""Mensaje de 
+  varias 
+  líneas """)
+```
+
+## Constantes
+
+Para definir una constante es poner en mayúsculas el nombre de la varaible `LIMITE = 1000`

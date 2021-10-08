@@ -21,7 +21,7 @@ nombre = 'Francisco'
 # nombre = nombre[1::3]
 
 # pasos negativos
-nombre = nombre[::-1]
+nombre = nombre[::-1  ]
 
 
 
